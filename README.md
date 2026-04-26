@@ -18,12 +18,13 @@ US0 - US2-Continued
 
 ## How to Build and Run
 ---------------------------------------------------------------------------------------
-Open Git bash, and move to a folder you would like to hold the game (using ls, cd #)\
+Open Git bash, and move to a folder you would like to hold the git (using ls, cd #) \
+Otherwise, download it and move it via normal folder movement \
 If you have an SSH key set up for GitHub, type this command into the shell \
-code \
-This will make a new version of the repository on your local computer, linked to the GitLab repository
+git clone https://github.com/SNEAKY9000/WesbergrekDict.git \
+This will make a new version of the repository on your local computer, linked to the GitHub repository
 
-#### Run Main.java
+### Run Main.java
 Currently, run the code to start the program
 
 ## Credit for Sources
